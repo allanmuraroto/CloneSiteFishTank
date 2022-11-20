@@ -6,14 +6,47 @@
     font-size: 2rem;
 }
 
+.textColorBack
+{
+    color: rgba(0, 0, 0, 0.267);
+    font-size: 2rem;
+}
+
 .buttonColor{
     color: #ff9f43;
+    background-color: #FFF;
     border-color: #ff9f43;
+    border-style: none;
+    border: 2px solid #ff9f43;
     font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.buttonPlay{
+    background-color: #ff9f43;
+    border: none;
+    font-weight: bold;
+}
+
+.buttonPlay:hover{
+    background-color: #f88922;
+    border: none;
     font-weight: bold;
 }
 
 .buttonColor:hover{
     color: #FFF;
     background-color: #ff9f43;
+    border: 2px solid #ff9f43;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.colorGif{
+    background-color: #ff9f43;
+}
+
+.jumbotron{
+    background-color: #FFF;
 }
