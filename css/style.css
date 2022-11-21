@@ -43,6 +43,15 @@
 
 }
 
+a {
+    font-weight: bold;
+    
+}
+
+a:hover{
+    color:#ff9f43;
+}
+
 .colorGif{
     background-color: #ff9f43;
 }
