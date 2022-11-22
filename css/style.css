@@ -63,3 +63,14 @@ a:hover{
 .imgTratada{
     max-width: 721px;
 }
+
+.fontBranca{
+    color: white;
+    font-weight: 500;
+}
+
+.midiasSociais{
+    width: 40px;
+    margin-right: 15px;
+    height: 40px;
+}
